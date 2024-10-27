@@ -1,5 +1,5 @@
 
-const API_KEY = import.meta.env.VITE.API_KEY;
+const API_KEY = import.meta.env.VITE_API_KEY;
 //"014a05a08ab0b7365bef21a7456608c4"
 
 const requests = {
